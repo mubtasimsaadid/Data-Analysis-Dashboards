@@ -1,1 +1,3 @@
 Dengue Data Visualization and Risk Mapping for Dhaka City
+
+This dashboard presents a comprehensive analysis of Dengue cases in Dhaka using real-world data from the Kaggle Dengue Dataset. It includes insights on test positivity (NS1, IgG, IgM), case severity, past infections, age and gender distribution, area-wise risk levels, housing conditions, and outcomes (recovery/death). Data was cleaned and transformed using Power Query, and key indicators such as Dengue Severity Score and Area Risk Labels were derived to support public health decision-making. Interactive visuals and pivot tables enable dynamic filtering by time, location, demographics, and test results.
