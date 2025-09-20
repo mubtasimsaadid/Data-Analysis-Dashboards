@@ -1,3 +1,33 @@
-Dengue Data Visualization and Risk Mapping for Dhaka City
+Dengue Analysis Dashboard
 
-This dashboard presents a comprehensive analysis of Dengue cases in Dhaka using real-world data from the Kaggle Dengue Dataset. It includes insights on test positivity (NS1, IgG, IgM), case severity, past infections, age and gender distribution, area-wise risk levels, housing conditions, and outcomes (recovery/death). Data was cleaned and transformed using Power Query, and key indicators such as Dengue Severity Score and Area Risk Labels were derived to support public health decision-making. Interactive visuals and pivot tables enable dynamic filtering by time, location, demographics, and test results.
+An interactive data analysis project focused on understanding and visualizing dengue outbreak patterns. The dashboard highlights case trends, seasonal outbreaks, and geographic hotspots, providing valuable insights for public health monitoring and decision-making.
+
+📊 Features
+
+Cleaned and transformed raw dengue case data for accurate analysis
+
+Interactive dashboard with filters by region, age group, and timeline
+
+Trend analysis to identify seasonal and geographic outbreak patterns
+
+User-friendly interface for exploring insights without coding knowledge
+
+🛠 Tech Stack
+
+SQL – Data extraction and transformation
+
+Python (Pandas, Matplotlib, Seaborn) – Data wrangling & statistical analysis
+
+Power BI – Dashboard design and visualization
+
+Excel – Data preprocessing and validation
+
+📌 Key Insights
+
+Dengue cases peak during monsoon months (July–September)
+
+Urban regions show higher outbreak density
+
+Age group 15–35 years is most affected
+
+Seasonal interventions can significantly reduce outbreaks
