@@ -1,8 +1,8 @@
-## Dengue Analysis Dashboard
+# Dengue Analysis Dashboard
 
 An interactive data analysis project focused on understanding and visualizing dengue outbreak patterns. The dashboard highlights case trends, seasonal outbreaks, and geographic hotspots, providing valuable insights for public health monitoring and decision-making.
 
-📊 Features
+## 📊 Features
 
 Cleaned and transformed raw dengue case data for accurate analysis
 
@@ -12,11 +12,11 @@ Trend analysis to identify seasonal and geographic outbreak patterns
 
 User-friendly interface for exploring insights without coding knowledge
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
-Excel – Data preprocessing and validation
+Excel – Data preprocessing, validation and visualization
 
-📌 Key Insights
+## Key Insights
 
 Dengue cases peak during monsoon months (July–September)
 
