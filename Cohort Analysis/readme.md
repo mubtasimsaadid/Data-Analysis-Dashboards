@@ -22,7 +22,7 @@ This project leverages Power BI to analyze customer groups over time, uncovering
 - **Recovered Customer Assessment: Evaluate the effectiveness of initiatives aimed at winning back previously lost customers.**
 
 
-## 📌 Useful for
+## 📌 Useful For
 
 - **Data-Driven Decisions: Leverage actionable insights to guide business strategy**
 
