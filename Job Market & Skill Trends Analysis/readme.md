@@ -11,7 +11,7 @@ An interactive data analysis dashboard focused on analyzing job market trends, s
 
 - **Built advanced DAX measures for time intelligence (YTD, YOY, etc.), ranking, and behavioral segmentation**
 
-- **User-friendly interface for exploring insights without coding knowledge***
+- **User-friendly interface for exploring insights without coding knowledge**
 
 ## 🔍 Key Highlights
 
