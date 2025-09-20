@@ -18,10 +18,12 @@ Excel – Data preprocessing, validation and visualization
 
 ## 📌 Key Insights
 
-Dengue cases peak during monsoon months (July–September)
+- **Dengue cases peak during monsoon months (July–September)**
 
-Urban regions show higher outbreak density
+- **Urban regions show higher outbreak density**
 
-Age group 15–35 years is most affected
+- **Age group 15–35 years is most affected**
 
-Seasonal interventions can significantly reduce outbreaks
+- **Jatrabari is the most affected place in Dhaka City**
+
+- **Seasonal interventions can significantly reduce outbreaks**
