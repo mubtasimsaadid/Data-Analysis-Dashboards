@@ -1,0 +1,176 @@
+Skill,Category
+TABLEAU,Data Visuaization
+LOOKER,Data Visuaization
+BI,Data Visuaization
+QLIK,Data Visuaization
+CLOUD,Cloud
+GCP,Cloud
+AZURE,Cloud
+AWS,Cloud
+ETL,Data Engineering Tools
+HADOOP,Data Engineering Tools
+SPARK,Data Engineering Tools
+AIRFLOW,Data Engineering Tools
+AI,Data Engineering Tools
+MONGODB,Database
+SNOWFLAKE,Database
+POSTGRESQL,Database
+MYSQL,Database
+SQL,Database
+POSTGRES,Database
+REDSHIFT,Database
+MONGO,Database
+ORACLE,Database
+VISIO,Machine Learning
+AI/ML,Machine Learning
+NLP,Machine Learning
+ML,Machine Learning
+PYSPARK,Data Engineering
+POWERSHELL,Scripting 
+POWERPOINTS,Productivity
+POWERPOINT,Productivity
+POWERBI,Data Visualization
+PYTORCH,Machine Learning
+POWER_BI,Data Visualization
+REDIS,Database
+PROGRAMMING,Programming Language
+MLOPS,Data Engineering
+PL/SQL,Database
+NLTK,Data Engineering
+NODE,Programming Language
+NODE.JS,Programming Language
+NOSQL,Database
+NO-SQL,Database
+NUIX,Data Engineering
+PLOTLY,Data Visualization
+NUMPY,Programming Language
+OUTLOOK,Productivity
+PAAS,Data Engineering
+PANDAS,Data Engineering
+PASCAL,Programming Language
+PERL,Programming Language
+PHP,Programming Language
+OBJECTIVE_C,Programming Language
+RSHINY,Others
+SCIKIT-LEARN,Others
+RUST,Programming Language
+TENSORFLOW,Others
+TERMINAL,Others
+THEANO,Others
+TIDYR,Others
+T-SQL,Others
+TWILIO,Others
+UBUNTU,Others
+UNIX,Others
+UNIX/LINUX,Others
+VB.NET,Others
+VBA,Others
+VISUAL_BASIC,Others
+VUE,Web Development
+VUE.JS,Web Development
+WAREHOUSING,Others
+SWIFT,Others
+SSRS,Others
+SSIS,Others
+SSAS,Others
+SAAS,Others
+SAP,Others
+SAS,Others
+SASS,Others
+SCRUM/AGILE,Others
+SEABORN,Others
+SELENIUM,Others
+RUBY,Others
+SERVER,Others
+SHELL,Others
+SHOGUN,Others
+SLACK,Others
+SPLUNK,Others
+SPREADSHEET,Productivity
+SPREADSHEETS,Productivity
+SPSS,Others
+SHAREPOINT,Others
+MXNET,Others
+XML,Others
+MLR,Others
+DART,Others
+DATA_LAKE,Others
+DATA_LAKES,Others
+DATABASE,Others
+DATADOG,Others
+DATAOPS,Others
+DATAROBOT,Others
+DAX,Others
+DELPHI,Others
+DEVOPS,Others
+DOCKER,Others
+DPLYR,Others
+EMBER.JS,Others
+EXCEL,Data Visualization
+MSSQL,Database
+CSS,Others
+FULLSTACK,Others
+COGNOS,Others
+CODEBASE,Others
+AJAX,Others
+ALTERYX,Others
+APACHE,Others
+ASP.NET,Others
+ATLASSIAN,Others
+AURORA,Others
+BACKEND,Others
+BACK-END,Others
+BASH,Others
+BIGQUERY,Database
+BLOOMBERG,Others
+C/C++,Programming Language
+CHAINER,Others
+CI/CD,Others
+CICD,Others
+CODING,Others
+GDPR,Others
+FRONTEND,Others
+JS,Others
+MACHINE_LEARNING,Machine Learning
+LUA,Others
+LINUX/UNIX,Others
+LINUX,Others
+MATPLOTLIB,Others
+KOTLIN,Others
+KERAS,Others
+MICROSOFT,Others
+JUPYTER,Others
+JSON,Others
+JSE/JEE,Others
+GGPLOT2,Others
+JQUERY,Others
+MICROSTRATEGY,Others
+MACROS,Others
+JAVASCRIPT/TYPESCRIPT,Programming Language
+MATLAB,Others
+IOT,Others
+IOS,Others
+IBM,Others
+IAAS,Others
+HTML5,Others
+GITLAB,Others
+HTML,Others
+GRAPHQL,Others
+WORD,Productivity
+GOLANG,Others
+SCALA,Programming Language
+GO,Programming Language
+JAVASCRIPT,Programming Language
+R,Programming Language
+JAVA,Programming Language
+PYTHON,Programming Language
+C,Programming Language
+C++,Programming Language
+AGILE/SCRUM,Project Management
+AGILE,Project Management
+KANBAN,Project Management
+JIRA,Project Management
+SCRUM,Project Management
+GITHUB,Version Control
+BITBUCKET,Version Control
+GIT,Version Control
