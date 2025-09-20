@@ -1,4 +1,4 @@
-Dengue Analysis Dashboard
+## Dengue Analysis Dashboard
 
 An interactive data analysis project focused on understanding and visualizing dengue outbreak patterns. The dashboard highlights case trends, seasonal outbreaks, and geographic hotspots, providing valuable insights for public health monitoring and decision-making.
 
@@ -13,12 +13,6 @@ Trend analysis to identify seasonal and geographic outbreak patterns
 User-friendly interface for exploring insights without coding knowledge
 
 🛠 Tech Stack
-
-SQL – Data extraction and transformation
-
-Python (Pandas, Matplotlib, Seaborn) – Data wrangling & statistical analysis
-
-Power BI – Dashboard design and visualization
 
 Excel – Data preprocessing and validation
 
