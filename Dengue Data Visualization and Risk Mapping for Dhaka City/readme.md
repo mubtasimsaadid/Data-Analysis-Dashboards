@@ -4,13 +4,13 @@ An interactive data analysis project focused on understanding and visualizing de
 
 ## 📊 Features
 
-Cleaned and transformed raw dengue case data for accurate analysis
+- **Cleaned and transformed raw dengue case data for accurate analysis**
 
-Interactive dashboard with filters by region, age group, and timeline
+- **Interactive dashboard with filters by region, age group, and timeline**
 
-Trend analysis to identify seasonal and geographic outbreak patterns
+- **Trend analysis to identify seasonal and geographic outbreak patterns**
 
-User-friendly interface for exploring insights without coding knowledge
+- **User-friendly interface for exploring insights without coding knowledge***
 
 ## 🛠 Tech Stack
 
