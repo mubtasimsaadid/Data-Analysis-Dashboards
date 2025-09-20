@@ -16,7 +16,7 @@ User-friendly interface for exploring insights without coding knowledge
 
 Excel – Data preprocessing, validation and visualization
 
-## Key Insights
+## 📌 Key Insights
 
 Dengue cases peak during monsoon months (July–September)
 
