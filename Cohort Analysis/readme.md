@@ -2,7 +2,6 @@
 This project leverages Power BI to analyze customer groups over time, uncovering behavioral patterns and trends in the retail sector. The findings provide actionable insights that help businesses improve retention, tailor marketing strategies, and drive long-term growth.
 
 ## Live Demo
-
 [Click to view](https://app.fabric.microsoft.com/view?r=eyJrIjoiMDY2YWQ4YmEtYmMzNS00YTVkLWI2NjAtNzY3YzE1YWI4YzJlIiwidCI6ImNhYzZkMjEyLWEwMzMtNDU5Ny05MmNmLWVhY2ZlNzY2NzM4NiIsImMiOjEwfQ%3D%3D&embedImagePlaceholder=true)
 
 ## Key Highlights
